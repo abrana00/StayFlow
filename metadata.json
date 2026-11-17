@@ -1,0 +1,8 @@
+{
+  "name": "StayFlow - Hotel Room Booking & Management",
+  "description": "Professional hotel room booking and reservation management dashboard with visual calendar timeline, conflict prevention, dynamic room inventory, and guest management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
